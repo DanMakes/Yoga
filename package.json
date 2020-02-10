@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/roshanlam/Yogi.git"
+    "url": "git+https://github.com/danmakes/Yogi.git"
   },
-  "author": "Roshan Lamichhane",
+  "author": "Dan Makes",
   "bugs": {
-    "url": "https://github.com/roshanlam/Yogi/issues"
+    "url": "https://github.com/danmakes/Yogi/issues"
   },
-  "homepage": "https://github.com/roshanlam/Yogi#readme",
+  "homepage": "https://github.com/danmakes/Yogi#readme",
   "dependencies": {
     "babel-cli": "^6.18.0",
     "babel-core": "^6.18.2",
